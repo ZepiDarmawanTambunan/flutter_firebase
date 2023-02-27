@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80962124481",
+    "firebase_url": "https://fir-v1-dcc1d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-v1-dcc1d",
+    "storage_bucket": "fir-v1-dcc1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80962124481:android:dd8b1357dfbcf4497ab240",
+        "android_client_info": {
+          "package_name": "com.project.firebase_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80962124481-7idn2saoed3el13f8tp6kea419kn78r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.firebase_v1",
+            "certificate_hash": "648708b61d1f0579336e2e2efe903770224ee645"
+          }
+        },
+        {
+          "client_id": "80962124481-kqp4qps1cihf56stv4locmtvrk1ujq60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yD8PEUKQfwWzrGZJF1qPBOohkMxQPK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80962124481-kqp4qps1cihf56stv4locmtvrk1ujq60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
